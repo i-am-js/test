@@ -27,3 +27,17 @@
 		* Network Structure(CNN is a very good example)
 2. 看[计算机网络知识](http://www.jianshu.com/p/21b5cbac0849)		
 
+## 11.09 log
+1. 看__1天搞定深度学习__文档P149-P195
+	* CNN for image
+		* Do almost the same thing They can use the same set of parameters
+		* Subsampling the pixels will not change the object
+	    * eg.CNN for playing Go	
+	* RNN
+	* Bidirectional RNN
+
+## 11.10 log
+1. 看__1天搞定深度学习__文档
+	* LSTM	
+2. 看论文__改进BP神经网络在物体识别中的应用__
+
