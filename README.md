@@ -67,3 +67,9 @@
 1. 看利用keras框架构建一个三个卷积层的CNN的例子
 2. 运行一个案例CNN识别手写字符 （minist数据库）
 	遇到的问题：spyder无论什么代码都报错
+
+## 11.13 log
+1. 看[keras中文文档]（http://keras-cn.readthedocs.io/en/latest/）
+2. 运行案例时总是失败，估计是环境的问题，重新安装了系统
+
+
