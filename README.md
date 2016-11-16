@@ -53,7 +53,7 @@
 	* 提取物体特征：修正不变矩方法	
 	* 用 Coil-20 图像数据库进行实验
 2. 学习[Keras框架相关知识](http://www.open-open.com/lib/view/open1430982565991.html)	
-	*Keras里的模块
+	* Keras里的模块
 		* Optimizers 包含了一些优化的方法，比如最基本的随机梯度下降SGD,Adagrad、Adadelta、RMSprop、Adam,一些新的方法以后也会被不断添加进来
 		* Objectives 目标函数模块，keras提供了mean_squared_error，mean_absolute_error ，squared_hinge，hinge，binary_crossentropy，categorical_crossentropy这几种目标函数。	
 		* Activations 激活函数模块，keras提供了linear、sigmoid、hard_sigmoid、tanh、softplus、relu、 softplus，另外softmax也放在Activations模块里
@@ -72,4 +72,10 @@
 1. 看[keras中文文档]（http://keras-cn.readthedocs.io/en/latest/）
 2. 运行案例时总是失败，估计是环境的问题，重新安装了系统
 
+## 11.14 log
+1. 看[keras中文文档](http://keras-cn.readthedocs.io/en/latest/)
+2. 配置相关环境
 
+## 11.15 log
+1. 看__keras中文文档__
+	* Keras有两种类型的模型，顺序模型（Sequential）和泛型模型（Model）
