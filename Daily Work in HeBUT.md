@@ -79,3 +79,7 @@
 ## 11.15 log
 1. 看__keras中文文档__
 	* Keras有两种类型的模型，顺序模型（Sequential）和泛型模型（Model）
+
+## 11.16 log
+1. 用keras搭建了一个简单的神经网络[__代码__](https://github.com/i-am-js/test/blob/master/HandwritingRecognition.py)
+2. 了解[云机器人相关知识](https://en.wikipedia.org/wiki/Cloud_robotics)

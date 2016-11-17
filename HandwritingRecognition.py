@@ -11,7 +11,7 @@ This is a example (Handwriting Digit Recognition) by use keras.
 from keras.models import Sequential
 from keras.layers.core import Dense, Activation
 from keras.optimizers import SGD
-#from keras.
+
 
 model = Sequential()
 
