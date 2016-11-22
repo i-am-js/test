@@ -83,3 +83,15 @@
 ## 11.16 log
 1. 用keras搭建了一个简单的神经网络[__代码__](https://github.com/i-am-js/test/blob/master/HandwritingRecognition.py)
 2. 了解[云机器人相关知识](https://en.wikipedia.org/wiki/Cloud_robotics)
+
+## 11.17log
+1. 看论文**云机器人概念架构与关键技术研究综述**
+2. 研究机器人抓取的[代码](https://github.com/i-am-js/test/tree/69dec52b8345012a77ba43bcb909c5b1c9d5559a/PickRubbishTest)
+
+## 11.18.log
+1. 看论文**基于视觉伺服的仿人机器人智能抓取技术研究** 2013 硕士
+- 论文对目标图像图像的进行边缘检测，通过圆拟合得到质心坐标，放弃传统的单目视觉定位目标定位的方法，文中改进的采用BP神经网络得到目标质心坐标和目标相对于摄像机的坐标之间的关系
+
+## 11.21.log
+1. 看论文**基于视觉伺服的仿人机器人智能抓取技术研究** 2013 硕士
+2. 修改小论文
