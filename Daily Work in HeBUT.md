@@ -95,3 +95,30 @@
 ## 11.21.log
 1. 看论文**基于视觉伺服的仿人机器人智能抓取技术研究** 2013 硕士
 2. 修改小论文
+
+## 11.22.log
+1. 看论文 **基于模糊控制的NAO机器人目标跟踪与抓取**
+- 文中在是机器人摄像头成像平面垂直的方向上加了一个摄像头，组成一个视觉系统
+2. 研究机器人抓取的代码
+3. [学习python多线程知识](http://www.runoob.com/python/python-multithreading.html)
+- Python通过两个标准库thread和threading提供对线程的支持
+
+## 11.23.log
+1. 研究机器人抓取的代码
+
+## 11.24.log
+1. 研究机器人抓取的代码并写注释
+2. 修改小论文
+## 11.28.log
+1. 制作开题报告的幻灯片
+
+## 11.29.log
+1. 制作开题报告的幻灯片
+2. [系统学习sublime的使用](http://www.imooc.com/learn/40/)
+3. 看论文 **Integration of the Humanoid Robot Nao inside a Smart
+Home: A Case Study**
+
+## 11.30.log
+1. 修改开题报告的幻灯片
+2. 看论文 **Integration of the Humanoid Robot Nao inside a Smart
+Home: A Case Study**
