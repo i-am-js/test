@@ -122,3 +122,21 @@ Home: A Case Study**
 1. 修改开题报告的幻灯片
 2. 看论文 **Integration of the Humanoid Robot Nao inside a Smart
 Home: A Case Study**
+
+## 12.01.log
+1. 论文开题
+
+## 12.02.log
+1. 阅读硕士论文*室内智能移动机器人规则物体识别与抓取_李慧霞*
+
+## 12.05.log
+1. 阅读论文*An Intelligent vision System for Object
+Localization and Obstacle Avoidance for an
+Indoor Service Robot*
+2. 书写小论文摘要部分
+ 
+## 12.06.log
+1. 阅读论文*An Intelligent vision System for Object
+Localization and Obstacle Avoidance for an
+Indoor Service Robot*
+2. 在virtualbox中安装linux，配置keras环境
