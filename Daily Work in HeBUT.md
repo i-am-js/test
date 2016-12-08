@@ -140,3 +140,11 @@ Indoor Service Robot*
 Localization and Obstacle Avoidance for an
 Indoor Service Robot*
 2. 在virtualbox中安装linux，配置keras环境
+
+## 12.07.log
+1. 写了一个机器人获取多张图像的程序并测试运行了一下
+
+## 12.08.log
+1. 安装Eclipse+pydev环境编写python
+2. 机器人演出排练
+
